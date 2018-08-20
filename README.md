@@ -1,0 +1,1 @@
+Company owner can add, fire, update and view all the employee informations from the app. multi user login with firebase
